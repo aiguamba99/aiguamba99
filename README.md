@@ -39,7 +39,7 @@
 
 ## 👨‍💻 About Me
 <div align="left">
-  <img align="right" height="200" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" alt="coding gif" />
+  <img align="right" height="180" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" alt="coding gif" />
   
   - 🌱 I’m currently working on Mobile App  
   - 🌱 I’m currently learning Swift  
